@@ -1,4 +1,4 @@
-# Java-Swing-CRUD
+# Java + Swing / CRUD
 
 CITY CRUD:
 The app is based on Java with JDK 13.0.1. The purpose is to show the diferent operations you can do in a Java app. 
